@@ -8,3 +8,4 @@ ls -na display current directory content in long format with user and group is d
 mkdir /tmp/my_first_directory creates a directory in the /tmp directory
 mv /tmp/betty /tmp/my_first_directory moves the file betty to tmp/my_first_directory
 rm /tmp/my_first_directory/betty
+rmdir /tmp/my_first_directory deletes directory in tmp
