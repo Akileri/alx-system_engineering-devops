@@ -10,3 +10,4 @@ mv /tmp/betty /tmp/my_first_directory moves the file betty to tmp/my_first_direc
 rm /tmp/my_first_directory/betty
 rmdir /tmp/my_first_directory deletes directory in tmp
 cd ..
+ls -la to list all files
