@@ -7,3 +7,4 @@ chown changes owner of fille hello to the user betty
 sudo chown betty hello
 sudo chown betty hello changes owner of hello file to betty 
 touch hello to create a new file called hello
+chmod u+x hello grants execute permision to owner of the file
