@@ -4,3 +4,6 @@ whoami
 whoami prints effective username of current user
 groups prints all groups the user is part of
 chown changes owner of fille hello to the user betty
+sudo chown betty hello
+sudo chown betty hello changes owner of hello file to betty 
+touch hello to create a new file called hello
